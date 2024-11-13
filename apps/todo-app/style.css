@@ -1,0 +1,4 @@
+.complete {
+    cursor: pointer;
+    text-decoration: line-through;
+}
